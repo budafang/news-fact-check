@@ -41,6 +41,9 @@
 - 查不到資料時會標示「查無」，不等於真或假。
 - 各平台對「一次只輸出一個階段」的遵守程度可能不同。
 
+## 授權
+© 2026 budafang。本專案以 [CC BY 4.0](LICENSE) 授權：可自由使用、修改、散布與商用，使用時請標示原作者（budafang）與來源網址。
+
 ## 檔案
 - `news-fact-check.zip`：Claude 技能包
 - `news-fact-check-prompt.txt`：ChatGPT、Gemini 或其他 AI 用的純文字指示
